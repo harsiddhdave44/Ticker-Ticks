@@ -1,9 +1,9 @@
 
-# Historical Data Fetcher
+# Ticker Ticks
 
-This Python code uses the Zerodha Kite API to fetch the historical data of any given stock or index. It can be used to gather data for backtesting your strategy, for your data related-projects, or even to run prediction models on it to gain interesting insights.
+TickerTicks is a Python app that helps in fetching the data for any Index, Equity, or any other instrument from either NSE or BSE using the Zerodha Kite's API. It can take any ticker along with the date and time range and fetch the historical data for the same for the given time-frame.
 
-This code fetches the data for the 15 minute timeframe, although you can tweak it to fetch the data for any other time-frame as you need. 
+This code fetches the data for the 15-minute timeframe, although you can tweak it to fetch the data for any other time-frame as you need. 
 
 Link to Kite API Documentation: https://kite.trade/docs/connect/v3/
  
